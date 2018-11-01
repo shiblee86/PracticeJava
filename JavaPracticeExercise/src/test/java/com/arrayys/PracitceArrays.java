@@ -1,3 +1,4 @@
+package com.arrayys;
 
 public class PracitceArrays {
 
