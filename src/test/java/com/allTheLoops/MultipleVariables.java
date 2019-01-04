@@ -4,7 +4,7 @@ public class MultipleVariables {
 
 	public static void runVariables() {
 		int i = 0;
-		for(i=0; i<=0; i++) {
+		for(i=0; i<=10; i++) {
 			int x;
 			x=i;
 			System.out.println(x);
